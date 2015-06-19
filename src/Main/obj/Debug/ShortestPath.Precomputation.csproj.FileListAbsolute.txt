@@ -1,0 +1,10 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Precomputation\build\debug\USC.GISResearchLab.ShortestPath.Precomputation.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Precomputation\build\debug\USC.GISResearchLab.ShortestPath.Precomputation.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Precomputation\src\obj\Debug\ShortestPath.Precomputation.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Precomputation\src\obj\Debug\USC.GISResearchLab.ShortestPath.Precomputation.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Precomputation\src\obj\Debug\USC.GISResearchLab.ShortestPath.Precomputation.pdb
+C:\DevBuild\Tamu\GeoInnovation\ShortestPath\ShortestPath.Precomputation\build\1.0.0\debug\Tamu.GeoInnovation.ShortestPath.Precomputation.dll
+C:\DevBuild\Tamu\GeoInnovation\ShortestPath\ShortestPath.Precomputation\build\1.0.0\debug\Tamu.GeoInnovation.ShortestPath.Precomputation.pdb
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Precomputation\src\obj\Debug\ShortestPath.Precomputation.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Precomputation\src\obj\Debug\Tamu.GeoInnovation.ShortestPath.Precomputation.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Precomputation\src\obj\Debug\Tamu.GeoInnovation.ShortestPath.Precomputation.pdb
