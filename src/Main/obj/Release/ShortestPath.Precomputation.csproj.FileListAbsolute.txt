@@ -1,8 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Precomputation\build\release\USC.GISResearchLab.ShortestPath.Precomputation.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Precomputation\src\obj\Release\ShortestPath.Precomputation.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Precomputation\src\obj\Release\USC.GISResearchLab.ShortestPath.Precomputation.dll
-C:\DevBuild\Tamu\GeoInnovation\ShortestPath\ShortestPath.Precomputation\build\1.0.0\release\Tamu.GeoInnovation.ShortestPath.Precomputation.dll
-C:\DevSource\Tamu\GeoInnovation\ShortestPath\Precomputation\src\obj\Release\Tamu.GeoInnovation.ShortestPath.Precomputation.dll
-C:\DevSource\Tamu\GeoInnovation\ShortestPath\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.Precomputation.dll
-C:\DevSource\Tamu\GeoInnovation\ShortestPath\Precomputation\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.Precomputation.dll
-C:\DevSource\Tamu\GeoInnovation\ShortestPath\Precomputation\src\Main\obj\Release\Tamu.GeoInnovation.ShortestPath.Precomputation.dll
